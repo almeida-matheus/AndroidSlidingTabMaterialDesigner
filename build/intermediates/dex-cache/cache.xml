@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/matheus/Data/WorkSpace/LinguagemProgramacao/IDE/AndroidStudioProjects/AndroidSlidingTabMaterialDesigner/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/media/matheus/Data/WorkSpace/LinguagemProgramacao/IDE/AndroidStudioProjects/AndroidSlidingTabMaterialDesigner/app/build/intermediates/pre-dexed/debug/classes-1ac55b9366dd762de94e5cb23032bb64908d9ee6.jar" />
+    </item>
+
+</items>
